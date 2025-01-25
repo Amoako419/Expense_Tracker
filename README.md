@@ -12,7 +12,7 @@ This is a simple expense tracker application built with Streamlit and Pandas. It
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/Amoako419/Expense_Tracker.git
     cd expense-tracker
     ```
 
